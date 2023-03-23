@@ -4,7 +4,7 @@ namespace Prueba
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent(); //fdsfsdf
         }
     }
 }
